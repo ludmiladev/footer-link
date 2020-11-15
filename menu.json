@@ -1,0 +1,115 @@
+[
+    {
+   
+    "name": "Oleg Shablii",
+    "position": "Front End Developer",
+    "image":"../images/Oleg",
+    "email":"cilcksensead@gmail.com",
+    "sociallist":[
+        "https://www.instagram.com/ ",
+        "#",
+        "https://www.linkedin.com/ "
+    ]
+    
+  },
+
+  {
+    
+    "name": "Halyna Khyzhynska ",
+    "position": "Team Lead",
+    "image":"../images/Halyna",
+    "email":"gal4enock86@gmail.com",
+    "sociallist":[
+        "https://www.instagram.com/",
+        "#",
+        "#"
+    ]
+    
+  },
+
+  {
+ 
+    "name": "Denis Daniieliyan",
+    "position": "Scrum Master",
+    "image":"../images/Denis",
+    "email":"d3n1x1@gmail.com",
+    "sociallist":[
+        "https://www.instagram.com/",
+        "#",
+        "#"
+    ]
+    
+  },
+
+  {
+   
+    "name": "Ludmyla Mychta",
+    "position": "Front End Developer",
+    "image":"../images/Luda",
+    "email":"ljuda12@gmail.com",
+    "sociallist":[
+        "https://www.instagram.com/liudmilamychta/",
+        "https://www.facebook.com/profile.php?id=100005991458680",
+        "#"
+    ]
+    
+  },
+
+  {
+    
+    "name": "George Vasylenko",
+    "position": "Front End Developer",
+    "image":"../images/George",
+    "email":"georgevbuisness@gmail.com",
+    "sociallist":[
+        "https://www.instagram.com/",
+        "#",
+        "https://www.linkedin.com/ "
+    ]
+    
+  },
+
+  {
+    
+    "name": "Julia Artemenko",
+    "position": "Front End Developer",
+    "image":"../images/Julia",
+    "email":"juliaartemenko93@gmail.com",
+    "sociallist":[
+        "https://www.instagram.com/",
+        "#",
+        "#"
+    ]
+    
+  },
+
+  {
+    
+    "name": "Viktoriia Nazaruk",
+    "position": "Front End Developer",
+    "image":"../images/Viktoriia",
+    "email":"nazaruk.v92@gmail.com",
+    "sociallist":[
+        "https://www.instagram.com/",
+        "#",
+        "#"
+    ]
+    
+  },
+
+  {
+    
+    "name": "Ivan Rybachuk",
+    "position": "Front End Developer",
+    "image":"../images/Ivan",
+    "email":"pro100gon12@gmail.com",
+    "sociallist":[
+        "https://www.instagram.com/",
+        "#",
+        "#"
+    ]
+    
+  }
+
+]
+
