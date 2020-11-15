@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4264c53a-0fb8-4654-a264-44b924693424" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/footer-link.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kKvgYPKNOU80mqz6zvXBReyuUV" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4264c53a-0fb8-4654-a264-44b924693424" name="Default Changelist" comment="" />
+      <created>1605462209000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605462209000</updated>
+      <workItem from="1605462211938" duration="1026000" />
+    </task>
+    <task id="LOCAL-00001" summary="link">
+      <created>1605462292973</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605462292973</updated>
+    </task>
+    <task id="LOCAL-00002" summary="link">
+      <created>1605462307870</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605462307870</updated>
+    </task>
+    <task id="LOCAL-00003" summary="link">
+      <created>1605462371390</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605462371390</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="link" />
+    <option name="LAST_COMMIT_MESSAGE" value="link" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="849" y="119" key="CommitChangelistDialog2" timestamp="1605462370428">
+      <screen x="62" y="0" width="1858" height="1200" />
+    </state>
+    <state x="849" y="119" key="CommitChangelistDialog2/62.0.1858.1200/-1218.174.1218.1024@62.0.1858.1200" timestamp="1605462370428" />
+    <state x="1003" y="287" key="FileChooserDialogImpl" timestamp="1605462646987">
+      <screen x="62" y="0" width="1858" height="1200" />
+    </state>
+    <state x="1003" y="287" key="FileChooserDialogImpl/62.0.1858.1200/-1218.174.1218.1024@62.0.1858.1200" timestamp="1605462646987" />
+    <state x="815" y="265" key="Vcs.Push.Dialog.v2" timestamp="1605462402439">
+      <screen x="62" y="0" width="1858" height="1200" />
+    </state>
+    <state x="815" y="265" key="Vcs.Push.Dialog.v2/62.0.1858.1200/-1218.174.1218.1024@62.0.1858.1200" timestamp="1605462402439" />
+  </component>
+</project>
